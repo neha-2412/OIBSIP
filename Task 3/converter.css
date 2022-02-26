@@ -1,0 +1,65 @@
+body {
+    background-color: darkviolet;
+}
+
+.navbar {
+    background-color: snow;
+    justify-content: center;
+}
+
+.converter{
+    color: black;
+    font-size: 60px;
+    margin-left: 480px;
+    margin-top: 80px;
+}
+
+
+.form-control {
+    background-color: snow;
+    color: darkblue;
+    width: 250px;
+    height: 40px;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.container {
+    justify-content: space-evenly;
+    width: 250px;
+    margin: 2px auto 2px auto;
+    
+}
+
+.form-check{
+    font-size: 20px;
+}
+
+#converter {
+    height: 36px;
+    background-color: gray;
+    width: 100px;
+    margin-top: 20px;
+}
+
+#outputArea {
+    background-color: #f5f1ee;
+    color: darkviolet;
+    height: 50px;
+    width: 300px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#resetBtn {
+    background-color:gray;
+    border: none;
+    color: black;
+    width: 100px;
+    height: 36px;
+}
